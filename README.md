@@ -1,5 +1,5 @@
 # Outerstellar
-A top-down arcade space shooter made in Gamemaker as part of an Arcade Games Hackathon.
+A top-down arcade space shooter made in Gamemaker over 5 days as part of an Arcade Games Hackathon in July 2016.
 
 ## Features
 > TBC
