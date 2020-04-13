@@ -1,0 +1,15 @@
+Outerstellar v1.1 Patch Notes:
+
+- Player can now fire in Boss Level
+- Boss now takes damage from player
+- Player health now correctly starts at 250
+- Game no longer crashes on death
+- Enemies no longer stick to the side of the screen
+- Tweaked enemy spawning
+- Tweaked laser
+- Tweaked enemy scaling
+- Tweaked drop chances
+- Tweaked money gained
+- Tweaked upgrade costs
+- Slightly enlarged player death animation
+- Tweaked main menu
