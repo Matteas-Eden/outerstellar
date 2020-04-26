@@ -5,7 +5,7 @@ A top-down arcade space shooter made in Gamemaker over 5 days as part of an Arca
 > TBC
 
 ## Install
-> TBC
+Simply run the executable `OuterstellarV1_1Install.exe`.
 
 ## Copyright
 All rights belong to their respective owners. This software is provided ‘as-is’. Not all assets used are mine.
